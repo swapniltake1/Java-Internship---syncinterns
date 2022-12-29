@@ -29,11 +29,15 @@ Step 5: Run snake.java file
 
 </br>
 </br>
+
  # Task 2 - Library Management System 
 
 </br>
 </br>
+
 # Local setup
+
+</br>
 
 Step 1: Download or clone the source code from GitHub to the local machine
 
