@@ -2,6 +2,19 @@
 
 # Task 1 - Snake game in Java
 
+# Local setup
+
+Step 1: Download or clone the source code from GitHub to the local machine
+
+Step 2: Install JDK 17 - https://www.eclipse.org/downloads/
+
+Step 3: Install eclipse or vscode - https://www.eclipse.org/downloads/
+
+Step 5: Run snake.java file 
+
+
+
+
 
 # Project Screenshot :
 
@@ -55,5 +68,8 @@ Step 8: Admin Login User Id: ```admin@admin.in``` & Password: ```Temp123```
 
 
 # Add new publishers, update publishers, view publishers, delete publishers
+
+![image](https://user-images.githubusercontent.com/61576958/209916800-e4c647ee-551a-414f-aa61-30748d6ca3e0.png)
+
 
 
