@@ -1,6 +1,6 @@
-# Java-Internship---syncinterns
+# Java-Internship - syncinterns
 
-<h2> Task 1 - Snake game in Java </h2>
+# Task 1 - Snake game in Java
 
 
 Output 
@@ -9,7 +9,7 @@ Output
 
 
 
- <h2> Task 2 - Library Management System </h2>
+ # Task 2 - Library Management System 
 
 
 # Local setup
