@@ -1,9 +1,15 @@
 # Java Development Internship - Syncinterns 
+
 </br>
+
 # Task 1 - Snake game in Java
+
 </br>
+
 # Local setup
+
 </br>
+
 Step 1: Download or clone the source code from GitHub to the local machine
 
 Step 2: Install JDK 17 - https://www.eclipse.org/downloads/
